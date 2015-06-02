@@ -4,7 +4,6 @@
  http://livecoding.tv/chocsx
 
 ----
-----
 ## Hi Dev!
 This repository it's for the viewers share their solutions which watched in my stream.
 
