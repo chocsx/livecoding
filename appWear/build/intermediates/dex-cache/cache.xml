@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-f21708f6b672cf093642d6cc0bd90738105729fa.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e239b45d3b94ac3d759405a9c5fd1f88e53913b">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/wear/build/intermediates/pre-dexed/debug/classes-ec7342fe619c23aa617e9726187459d95467df13.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-0c465887021f70813aa63f66a48eb5273bf5aa25.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-d53181c1d27d5a3d736c82de311f59923c22e546.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-6ab2205928433f887efbf16515707b06d44c17ff.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/wear/build/intermediates/pre-dexed/debug/classes-2eafb42baa3ed9b309106cb123409b9844a05bd9.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-05d3a28697612735efa5ff83cd0112d08c4aa57c.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-9d4ce5f9745f9ba5cbc28a5946e6da93fab309a7.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-64319899945eeea5a0805c94a24ec53d8ad7e5a1.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-091fee96d434f4b7cbc3abe52cd2f6e017db8873.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-f5e104504efec14a1b57e392e0a04411f81760e3.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-129b73b4116715f1de1fb7f821c106e4a664141e.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-f6685777b97fb29499910b64b33e60e52c1d7e43.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/wear/build/intermediates/pre-dexed/debug/classes-4ba51e040c08688df18a8fa431ac8311371eadb2.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-dabb2046ef484b000ba87b535d52f1f56cba6e2c.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-ad1b245e0b8883959ee07de079ceeee6dc895b55.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-eb5a43a98955c737ec84bee74c8ff1ed18763c45.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-611de6c28e20d3494c43798a7c287cbd3054ebff.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-743951fe6f3cb5c931256662bbc711a8a66e8a08.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-c60367c97e269b68b52bd2aec6c8244268b62d9a.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-96f457d24b158b23d06f43d4b9f822d3bb059956.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-c2bdd8061ef4f3ecb1a794c4ff4d6728fc799284.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-8427ecc79ec9048c83bec5ad8c5b852d2e3ded35.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-a83565d602486ab999ee02bc8223149e73091bab.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-51465a6ffba2da47b777d6af0a1dd27ef2fa4985.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-327d944670e7614aceb438f9a099e4f55e84b156.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/wear/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/wear/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-ceea73052ee77381577796b34b3c155952070e59.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/wear/build/intermediates/pre-dexed/debug/classes-475ba3f9714290b8f383f1f6d0784a446ad638b9.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-1f8c121ce22bf82366513c401454d7ff4138ed7d.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-9dba88f5f420e7a0c03bf192a38edb0cb5399ce9.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/mobile/build/intermediates/pre-dexed/debug/classes-285cc0c2b6f52b3a15a069ca9c3bf9bcac6e4588.jar" />
+    </item>
+    <item
+        jar="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/wear/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/doubleweb/AndroidStudioProjects/LiveCodingApp/wear/build/intermediates/pre-dexed/debug/classes-1a87604970c5a83b7e3bc33106f5a06b6679321c.jar" />
+    </item>
+
+</items>
