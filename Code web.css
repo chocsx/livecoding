@@ -1,0 +1,544 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Mono);
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,700);
+div.header{
+  background-image: url(http://www.hdwallpapersos.com/wp-content/uploads/2015/03/Clouds-Over-City-Amazing-1080p-Wallpaper-Best-Image.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 1000px;
+}
+li {
+  display: inline-block;
+  float: right;
+  margin-right: 1px;
+}
+li a{
+  float: right;
+  display: block;
+  min-width: 150px;
+  height: 50px;
+  color: antiquewhite;
+  font-size: 30px;
+  font-weight: 700;
+  background-color: transparent;
+  margin-top: 30px;
+  font-family: 'Oswald', sans-serif;
+}
+li:hover a {
+  font-size: 40px;
+  text-decoration: none;
+  color: antiquewhite;
+  font-weight: 900;
+}
+div.navigate{
+  background-color: transparent;
+  width: 100%;
+  height: 80px;
+}
+h1.main-title{
+  margin-top: -80px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 900;
+  color: slategray;
+  text-decoration: underline;
+  text-decoration-color: antiquewhite;
+  margin-left: 90px;
+  font-size: 60px;
+}
+div.nav-bar-section{
+  display: none;
+}
+button.button-to-open-nav-bar{
+  border: 3px solid slategray;
+  box-shadow: 10px, 5px, 2px, 2px;
+  color: slategray;
+  background-color: transparent;
+  width: 100%;
+  height: 50px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  opacity: 0.6;
+  display: none;
+}
+button.button-to-open-nav-bar:hover{
+  background-color: silver;
+  color: black;
+}
+option.asdef-options{
+  font-family: 'Oswald', sans-serif;
+  color: antiquewhite;
+  font-size: 60px;
+  text-align: center;
+  margin-top: 50px;
+}
+option.asdef-options:hover {
+  font-weight: 900;
+  font-size: 65px;
+  text-decoration: underline;
+  text-decoration-color: slategray;
+}
+div.logo-section{
+  font-family: 'Oswald', sans-serif;
+  color: slategray;
+  font-size: 100px;
+  text-align: center;
+  margin-top: 100px;
+  text-decoration: underline;
+  text-decoration-color: antiquewhite;
+  display: none;
+}
+h2.little-title{
+  font-family: 'Oswald', sans-serif;
+  color: slategray;
+  font-size: 40px;
+  text-align: center;
+}
+span.glyphicon-globe{
+  font-size: 100px;
+  color: slategray;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+article.para-expl{
+  font-family: 'Oswald', sans-serif;
+  color: slategray;
+  width: 200px;
+  margin-left: 20px;
+  display: none;
+  font-size: 25px;
+}
+#pencil {
+  font-size: 100px;
+  color: slategray;
+  margin-top: -80px;
+  }
+article.esdf-enjoy{
+  font-family: 'Oswald', sans-serif;
+  color: slategray;
+  width: 200px;
+  margin-left: 100px;
+  display: none;
+  font-size: 25px;
+}
+#user{
+  color: slategray;
+  font-size: 100px;
+  margin-left: 1700px;
+  margin-top: -150px;
+}
+article.asdf-enjoy{
+  font-family: 'Oswald', sans-serif;
+  color: slategray;
+  width: 200px;
+  display: none;
+  font-size: 25px;
+  margin-left: 1700px;
+}
+div.main-content-with-image{
+  background-color: slategray;
+  width: 100%;
+  height: 600px;
+  margin-top: 30px;
+}
+img.main-img-with-paras{
+  border-radius: 50%;
+  padding: 25px;
+}
+img.second-main-img-circle{
+  border-radius: 50%;
+  padding: 25px;
+  margin-top: -400px;
+}
+article.main-de-article{
+  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+  color: antiquewhite;
+  width: 200px;
+  margin-left: 90px;
+}
+article.de-main-article{
+  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+  color: antiquewhite;
+  width: 200px;
+  text-align: center;
+  margin-left: 850px;
+  margin-top: -90px;
+}
+img.----------{
+  border-radius: 50%;
+  padding: 25px;
+  margin-left: 1500px;
+  margin-top: -410px;
+}
+article.esac-fersanation{
+  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+  color: antiquewhite;
+  width: 200px;
+  margin-left: 1600px;
+  margin-top: -130px;
+}
+article.main-paragraph{
+  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+  color: antiquewhite;
+  font-weight: 800;
+  margin-top: 30px;
+  display: none;
+  width: 200px;
+}
+div.advertisment{
+  width: 100%;
+  height: 700px;
+  background-color: purple;
+  display: none;
+}
+img.advert{
+  border-radius: 50%;
+  padding: 25px;
+  margin-top: 40px;
+}
+div.panel{
+  background-color: transparent;
+  color: purple;
+  font-family: 'Oswald', sans-serif;
+  width: 100%;
+  height: 80px;
+  text-align: center;
+  border: 3px solid purple;
+  margin-top: 25px;
+  font-size: 30px;
+}
+div.panel:hover{
+  background-color: purple;
+  color: white;
+  cursor: pointer;
+}
+article.poop-with-it{
+  font-family: 'Oswald', sans-serif;
+  color: antiquewhite;
+  font-size: 30px;
+  margin-top: 30px;
+  display: none;
+}
+article.poop-with-it:hover{
+  text-decoration: none;
+  font-size: 35px;
+}
+input.leave-comment{
+  width: 200px;
+  height: 100px;
+  margin-top: 40px;
+  display: none;
+  font-family: 'Oswald', sans-serif;
+}
+button.submit-button-class{
+  border: 3px solid slategray;
+  font-family: 'Oswald', sans-serif;
+  color: slategray;
+  width: 300px;
+  height: 50px;
+  display: none;
+  background-color: transparent;
+}
+button.submit-button-class:hover{
+  background-color: slategray;
+  color: white;
+}
+article.eds-article{
+  font-family: 'Oswald', sans-serif;
+  width: 200px;
+  font-size: 30px;
+  color: antiquewhite;
+  margin-top: 40px;
+  display: none;
+}
+div.panel-header{
+  border: 3px solid slategray;
+  width: 100%;
+  height: 100px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-size: 50px;
+  color: slategray;
+  padding: 20px;
+  background-color: antiquewhite;
+}
+div.panel-header:hover{
+  cursor: pointer;
+  background-color: slategray;
+  color: antiquewhite;
+}
+div.weasdf-panel{
+  background-color: antiquewhite;
+  border: 3px solid slategray;
+  width: 100%;
+  height: 500px;
+  display: none;
+}
+div.panel-header-2{
+  border: 3px solid slategray;
+  width: 100%;
+  height: 100px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-size: 50px;
+  color: slategray;
+  padding: 20px;
+  background-color: antiquewhite;
+}
+div.panel-header-2:hover{
+  cursor: pointer;
+  background-color: slategray;
+  color: antiquewhite;
+}
+div.weasdf-panel-2{
+  background-color: antiquewhite;
+  border: 3px solid slategray;
+  width: 100%;
+  height: 500px;
+  display: none;
+}
+
+img.ronan-img{
+  border-radius: 50%;
+  padding: 25px;
+  background-color: slategray;
+  margin-top: 20px;
+}
+img.chock-img{
+  border-radius: 50%;
+  padding: 25px;
+  background-color: slategray;
+  margin-top: 20px;
+}
+form.develope-form{
+  display: none;
+  margin-top: 30px;
+}
+button.label-button{
+  border: 3px solid slategray;
+  font-family: 'Oswald', sans-serif;
+  color: slategray;
+  background-color: antiquewhite;
+  width: 300px;
+  height: 50px;
+  margin-top: 30px;
+  display: none;
+}
+button.submit-the-button{
+  border: 3px solid slategray;
+  width: 300px;
+  height: 50px;
+  font-family: 'Oswald', sans-serif;
+  color: slategray;
+  background-color: antiquewhite;
+}
+article.ronan-article{
+  width: 500px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+  color: slategray;
+}
+article.ronan-article:hover{
+  font-size: 40px;
+}
+img.img-for-info{
+  border-radius: 25%;
+  padding: 25px;
+  margin-top: 20px;
+}
+div.panel-header-3{
+  border: 3px solid slategray;
+  width: 100%;
+  height: 100px;
+  font-family: 'Oswald', sans-serif;
+  color: slategray;
+  text-align: center;
+  font-size: 50px;
+  background-color: antiquewhite;
+  padding: 20px;
+}
+div.panel-header-3:hover{
+  background-color: slategray;
+  color: white;
+  cursor: pointer;
+}
+div.weasdf-panel-3{
+  border: 3px solid slategray;
+  width: 100%;
+  height: 500px;
+  display: none;
+  background-color: antiquewhite;
+}
+div.pane-button{
+  background-color: silver;
+  border: 3px solid slategray;
+  width: 300px;
+  height: 400px;
+  margin-left: 30px;
+  margin-top: 30px;
+  opacity: 0.6;
+}
+img.circle-img{
+  border-radius: 50%;
+  margin-top: 40px;
+}
+article.pane-para-1{
+  font-family: 'Oswald', sans-serif;
+  color: slategray;
+  font-size: 20px;
+  width: 200px;
+  margin-top: 20px;
+}
+article.pane-para-1:hover{
+  color: white;
+}
+div.pane-button:hover{
+  background-color: slategray;
+  color: white;
+  cursor: pointer;
+}
+div.section-with-button-panels{
+  display: none;
+}
+div.panel-header-4{
+  border: 3px solid slategray;
+  background-color: antiquewhite;
+  width: 100%;
+  height: 100px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-size: 50px;
+  padding: 20px;
+  color: slategray;
+}
+div.panel-header-4:hover{
+  background-color: slategray;
+  color: white;
+  cursor: pointer;
+}
+div.pane-button-1{
+  background-color: silver;
+  border: 3px solid slategray;
+  width: 300px;
+  height: 400px;
+  opacity: 0.6;
+  display: none;
+  margin-top: -400px;
+}
+div.pane-button-1:hover{
+  background-color: slategray;
+}
+article.pane-para-2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    color: slategray;
+    width: 200px;
+    margin-top: 30px;
+}
+article.pane-para-2:hover{
+  color: antiquewhite;
+}
+div.pane-button-2{
+  background-color: silver;
+  border: 3px solid slategray;
+  width: 300px;
+  height: 400px;
+  opacity: 0.6;
+  display: none;
+  margin-top: -400px;
+  margin-left: 1600px;
+}
+div.pane-button-2:hover{
+  background-color: slategray;
+}
+article.pane-para-3{
+  color: slategray;
+  font-size: 15px;
+  font-family: 'Oswald', sans-serif;
+  width: 200px;
+  margin-top: 30px;
+}
+article.pane-para-3:hover{
+  color: white;
+}div.pane-button-3{
+  background-color: silver;
+  border: 3px solid slategray;
+  width: 300px;
+  height: 400px;
+  opacity: 0.6;
+  display: none;
+  margin-top: 30px;
+}
+div.pane-button-3:hover{
+  background-color: slategray;
+}
+article.pane-para-4{
+  font-family: 'Oswald', sans-serif;
+  width: 200px;
+  font-size: 15px;
+  color: slategray;
+  margin-top: 30px;
+}
+article.pane-para-4:hover{
+  color: white;
+}
+div.panel-header-5{
+  background-color: antiquewhite;
+  border: 3px solid slategray;
+  width: 100%;
+  height: 100px;
+  font-family: 'Oswald', sans-serif;
+  color: slategray;
+  font-size: 50px;
+  padding: 20px;
+}
+      div.panel-header-5:hover{
+        background-color: slategray;
+        color: antiquewhite;
+        cursor: pointer;
+      }
+          div.weasdf-panel-5{
+            display: none;
+            border: 3px solid slategray;
+            width: 100%;
+            height: 500px;
+            background-color: antiquewhite;
+          }
+              option.ronan-email{
+                font-family: 'Oswald', sans-serif;
+                font-size: 30px;
+                color: slategray;
+                display: none;
+                margin-top: 30px;
+              }
+                  option.ronan-email:hover{
+                    font-size: 40px;
+                  }
+                    option.ronan-email:active{
+                      color: slategray;
+                      font-weight: 800;
+                    }
+                    label.ronans-email{
+                      font-family: 'Oswald', sans-serif;
+                      font-size: 50px;
+                      color: slategray;
+                      margin-top: 20px;
+                    }
+                  label.mateus-email{
+                    font-size: 50px;
+                    font-family: 'Oswald', sans-serif;
+                    color: slategray;
+                    margin-top: 30px;
+                  }
+                option.mateus-email{
+                  font-size: 30px;
+                  color: slategray;
+                  font-family: 'Oswald', sans-serif;
+                  margin-top: 30px;
+                }
+              option.mateus-email:hover{
+                font-size: 40px;
+                font-weight: 800;
+              }
