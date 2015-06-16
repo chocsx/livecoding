@@ -4,30 +4,21 @@ div.header{
   background-image: url(http://www.hdwallpapersos.com/wp-content/uploads/2015/03/Clouds-Over-City-Amazing-1080p-Wallpaper-Best-Image.jpg);
   background-size: cover;
   width: 100%;
-  height: 1000px;
+  height: 500px;
 }
-li {
+.header li {
   display: inline-block;
   float: right;
   margin-right: 1px;
 }
-li a{
-  float: right;
+.header a{
+  float: both;
   display: block;
-  min-width: 150px;
-  height: 50px;
-  color: antiquewhite;
-  font-size: 30px;
-  font-weight: 700;
+  color: #444;
+  font-size: 1.9em;
   background-color: transparent;
   margin-top: 30px;
   font-family: 'Oswald', sans-serif;
-}
-li:hover a {
-  font-size: 40px;
-  text-decoration: none;
-  color: antiquewhite;
-  font-weight: 900;
 }
 div.navigate{
   background-color: transparent;
@@ -37,7 +28,7 @@ div.navigate{
 h1.main-title{
   margin-top: -80px;
   font-family: 'Oswald', sans-serif;
-  font-weight: 900;
+  font-weight: 800;
   color: slategray;
   text-decoration: underline;
   text-decoration-color: antiquewhite;
@@ -45,7 +36,7 @@ h1.main-title{
   font-size: 60px;
 }
 div.nav-bar-section{
-  display: none;
+  display: block;
 }
 button.button-to-open-nav-bar{
   border: 3px solid slategray;
@@ -542,3 +533,26 @@ div.panel-header-5{
                 font-size: 40px;
                 font-weight: 800;
               }
+/*MOBILE*/
+@media only screen  and (max-device-width: 990px){
+  .header{
+    border:1px solid red;
+  }
+  .navbar li{
+    float:left;
+    width:30%;
+    margin:0px 5px;
+  }
+  .navbar a {
+    font-size: 1.3em
+  }
+  .navbar a:hover{
+    text-decoration: none;
+  }
+  .main-title{
+    width:100%;
+    float:left;
+    margin: 50%;
+    border:3px solid red;
+  }
+}
