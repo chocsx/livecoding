@@ -1,3 +1,5 @@
+<?php require "rb.php";
+ R::setup('mysql:host=localhost;dbname=buqui','root','12345'); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,10 +29,18 @@
 </body>
 </html>
 <?php
-if(isset($_POST['login'])){
-    $user = $_POST['user'];
-    echo $pass = $_POST['pass'];
-}
 
+R::debug(true);
+
+$user = R::findOne("user",'login=? and ativo=1',array($_POST['user']));
+    //$user = R::findOne('user','login=? and senha=? and ativo=1',array($_POST['login'],md5($_POST['senha'])));
+    if ($user!==NULL) {
+        //if ( $user->senha == md5($user->salt.$_POST['senha']) ) {         
+        if ( $user->senha == hasher($_POST['pass'],$user->senha) ) {           
+            $_SESSION['user'] = (object)$user->export();
+            $response->success = true;
+            $response->ssid = session_id();
+        }
+    }
 
 ?>
