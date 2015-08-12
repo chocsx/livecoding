@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Amorim Template</title>
+    
+    <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Arimo' >
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="css/vendor/bootstrap.min.css">
+    <link rel="stylesheet" href="css/vendor/bootstrap-theme.css">
+    <link rel="stylesheet" href="css/vendor/normalize.css">
+    <link rel="stylesheet" href="css/output.css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <div class="container">
+           <div class="row">
+               <div class="col-lg-12 header">
+                   <h1 class="pull-left">AmorimFlix</h1>
+                   <ul class="nav navbar-nav pull-right">
+                       <li class="actives"><a href="#"><i class="fa fa-film fa-2x"></i></a></li>
+                       <li><a href="#"><i class="fa fa-tv fa-2x"></i></a></li>
+                       <li><a href="#"><i class="fa fa-child fa-2x"></i></a></li>
+                       <li><a href="#"><i class="fa fa-heart-o fa-2x"></i></a></li>
+                   </ul>
+                </div>
+            </div>
+        <div class="row">
+            <div class="col-lg-12 list-films">
+            <h1 class="text-center">Filmes em Destaque</h1>
+            <div class="controls">
+            <label>Filter:</label>
+            <button class="filter" type="button" data-filter="all">All</button>
+            <button class="filter" type="button" data-filter=".category-1">Category 1</button>
+            <button class="filter" type="button" data-filter=".category-2">Category 2</button>
+            </div>
+                <div class="container" id="Container" >
+                   <ul class="row">
+                    <li class="col-lg-3 mix category-2 film">
+                        <a href="#" class="movie">
+                            <figure>
+                                <img src="media/film.jpg" alt="Filme Test" />
+                                <figcaption>
+                                    <i class="fa fa-facebook fa-2x"></i>
+                                    <h4 class="rating">5/10</h4>
+                                    <h6>hacking</h6>
+                                    <span class="button-green-download-big">Watch Online</span>
+                                </figcaption>
+                            </figure>
+                        </a>
+                        <h5>FILME</h5>
+                        <p>2015</p>
+                    </li> 
+                    <li class="col-lg-3 mix category-2 film">
+                        <a href="#" class="movie">
+                            <figure>
+                                <img src="media/film.jpg" alt="Filme Test" />
+                                <figcaption>
+                                    <i class="fa fa-facebook fa-2x"></i>
+                                    <h4 class="rating">5/10</h4>
+                                    <h6>hacking</h6>
+                                    <span class="button-green-download-big">Watch Online</span>
+                                </figcaption>
+                            </figure>
+                        </a>
+                        <h5>FILME</h5>
+                        <p>2015</p>
+                    </li> 
+                    <li class="col-lg-3 mix category-2 film">
+                        <a href="#" class="movie">
+                            <figure>
+                                <img src="media/film.jpg" alt="Filme Test" />
+                                <figcaption>
+                                    <i class="fa fa-facebook fa-2x"></i>
+                                    <h4 class="rating">5/10</h4>
+                                    <h6>hacking</h6>
+                                    <span class="button-green-download-big">Watch Online</span>
+                                </figcaption>
+                            </figure>
+                        </a>
+                        <h5>FILME</h5>
+                        <p>2015</p>
+                    </li> 
+                    <li class="col-lg-3 mix category-2 film">
+                        <a href="#" class="movie">
+                            <figure>
+                                <img src="media/film.jpg" alt="Filme Test" />
+                                <figcaption>
+                                    <i class="fa fa-facebook fa-2x"></i>
+                                    <h4 class="rating">5/10</h4>
+                                    <h6>hacking</h6>
+                                    <span class="button-green-download-big">Watch Online</span>
+                                </figcaption>
+                            </figure>
+                        </a>
+                        <h5>FILME</h5>
+                        <p>2015</p>
+                    </li> 
+                    <li class="col-lg-3 mix category-2 film">
+                        <a href="#" class="movie">
+                            <figure>
+                                <img src="media/film.jpg" alt="Filme Test" />
+                                <figcaption>
+                                    <i class="fa fa-facebook fa-2x"></i>
+                                    <h4 class="rating">5/10</h4>
+                                    <h6>hacking</h6>
+                                    <span class="button-green-download-big">Watch Online</span>
+                                </figcaption>
+                            </figure>
+                        </a>
+                        <h5>FILME</h5>
+                        <p>2015</p>
+                    </li> 
+                   </ul>            
+                </div>
+            </div>
+        </div>
+    </div>   
+   <!--
+    <div class="controls">
+        <label>Filter:</label>
+            <button class="filter" data-filter="all">All</button>
+            <button class="filter" data-filter=".category-1">Category 1</button>
+            <button class="filter" data-filter=".category-2">Category 2</button>
+
+        <label>Sort:</label>
+            <button class="sort" data-sort="myorder:asc">Asc</button>
+            <button class="sort" data-sort="myorder:desc">Desc</button>
+    </div>
+    <div id="Container" class="container">
+        <div class="mix category-1" data-myorder="1"></div>
+        <div class="mix category-1" data-myorder="2"></div>
+        <div class="mix category-1" data-myorder="3"></div>
+        <div class="mix category-2" data-myorder="4"></div>
+        <div class="mix category-1" data-myorder="5"></div>
+        <div class="mix category-1" data-myorder="6"></div>
+        <div class="mix category-2" data-myorder="7"></div>
+        <div class="mix category-2" data-myorder="8"></div>
+
+        <div class="gap"></div>
+        <div class="gap"></div>
+    </div>
+-->
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.mixitup.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $('#Container').mixItUp();
+        })    
+    </script>
+</body>
+</html>

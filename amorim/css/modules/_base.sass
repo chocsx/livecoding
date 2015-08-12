@@ -1,0 +1,74 @@
+$font: Arimo
+$white: #FFF
+$black: #1d1d1d
+*
+  -webkit-box-sizing: border-box
+  -moz-box-sizing: border-box
+  box-sizing: border-box
+  font-family: $font
+body
+  background-color: $black
+  color: $white
+  margin: 0
+  padding: 0
+.header
+  margin-right: auto
+  margin-left: auto
+  width: 100%
+  top: 0
+  position: fixed
+  z-index: 8
+  background: $black
+  overflow: hidden
+  color: $white
+  border-bottom: 1px solid #2f2f2f
+  backface-visibility: hidden
+.controls
+  text-align: center
+  padding: 20px
+  color: #eee
+.controls label
+  font-weight: 300
+  margin: 0 .4em 0 0
+.controls button
+  display: inline
+  padding: 0.4em 0.8em
+  background: #666
+  border: 0
+  color: #ddd
+  font-size: 16px
+  font-weight: 300
+  border-radius: 4px
+  cursor: pointer  
+.nav a
+  color: $white
+ul.nav a:hover
+  background-color: $black
+.test ul
+  background-color: white
+.list-films
+  margin: 0
+  padding: 0
+.container .mix
+  text-align: left
+  margin-bottom: 2%
+  display: none
+.film
+  padding: 0
+.film figure
+  position: relative
+  overflow: hidden
+.film figcaption
+  width: 100%
+  height: 100%
+  position: absolute
+  top: 0
+  padding:50 30px
+  left: 0
+  margin-top: -500px
+  border-radius: 5px
+  background-color: rgba(0,0,0,0.75)
+  -webkit-box-shadow: inset 0px 0px 5px 2px rgba(255,255,255,.75)
+  box-shadow: inset 0px 0px 5px 2px rgba(255,255,255,.75)
+.film:hover figcaption
+  margin-top: 0px
