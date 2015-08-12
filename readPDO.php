@@ -8,14 +8,12 @@
 			$select = $pdo->prepare("SELECT * FROM user");
 		//execute the query above
 			$select->execute();
-			$result = $select->fetch(PDO::FETCH_OBJ);
+			$results = $select->fetchAll(PDO::FETCH_ASSOC);
 		//if no errors found
-			var_dump($result);
-
-			foreach ($result as $key=>$value) {
-				echo 	$key." - ".
-					 	$value."<br />";
+			foreach($results as $row) {
+				var_dump($row);
 			}
+			
 	}catch(PDOException $e){
 		$e->getMessage( );
 	}
