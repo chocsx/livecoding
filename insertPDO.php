@@ -8,11 +8,11 @@
 
 <?php
 
-//require 'vendor/autoload.php';
+
 
 
 if(isset($_POST['ok'])){
-	// CRUD WITH PDO 
+	// CRUD WITH PDO  - CREATE
 	//post from form
 	$user = $_POST['username'];
 	$pass = $_POST['password'];
