@@ -26,6 +26,7 @@ if(isset($_POST['ok'])){
 			$insert->bindValue('1', $user, PDO::PARAM_STR);
 			$insert->bindValue('2', $pass, PDO::PARAM_STR);
 			$insert->bindValue('3', $email, PDO::PARAM_STR);
+			
 		//execute the query above
 			$insert->execute();
 		//if no errors found
