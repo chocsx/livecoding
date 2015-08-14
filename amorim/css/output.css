@@ -79,7 +79,13 @@ ul.nav a:hover {
   border-radius: 5px;
   border: 0;
   background-color: rgba(0, 0, 0, 0.9);
-  transition: all 0.6s ease-in-out; }
+  transition: all 0.6s ease-in-out;
+  text-align: center;
+  line-height: 2em; }
+
+.film a {
+  color: #FFF;
+  font-size: 1.8em; }
 
 .film i {
   color: #FFF;
