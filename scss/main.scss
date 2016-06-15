@@ -1,0 +1,92 @@
+@import "bootstrap";
+@import "variables";
+@import "listelements";
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
+h6{
+	font-size: 12px;
+}
+h5{
+	font-size: 16px;
+}
+ul{
+	margin:0;
+	padding: 0;
+	list-style: none;
+	
+	li{
+		text-transform: uppercase;
+		display: inline-block;
+		a{
+			text-decoration: none;
+			color: $white;
+			display: block;
+		}
+		a.actv{
+			color: $red;
+		}
+	}
+}
+.header{
+  height: 96px;
+  background-color: $base;
+	.logo{
+		padding: 20px 0;
+	}
+	ul{
+		margin: 35px 0;
+		text-align: center;
+	}
+	.menu-register{
+		margin: 25px 0;
+		border:1px solid $white;
+		li{
+			position: relative;
+			a{
+				display: block;
+				padding: 10px 0;
+			}
+		}
+		.actv{
+			background-color: $white;
+			color: #000;
+		}
+	}
+}
+
+.related-channel{
+	background: url(../media/header-bg.jpg) center center;
+	background-size: cover;
+	height: 500px;
+	.video{
+		.video-info{
+			margin: 0;
+			padding: 0;
+			background-color: $base;
+		}
+	}
+	.live-feed{
+		background-color: $base;
+		li{
+			width: 100%;
+			&:first-child{
+				font-size: 16px;
+				text-align: center;
+				&:before{
+					content:"\00b7";
+					color: red;
+				}
+			}
+			&:nth-child(2n){
+				background-color: $gray;
+			}
+			&:last-child > p{
+				font-size: 14px;
+			}
+		}
+
+	}
+	.bg{
+		padding: 32px 0;
+	}
+}
